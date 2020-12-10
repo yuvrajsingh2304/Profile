@@ -1,6 +1,6 @@
 # Publications
 
-- [Applications of Fiber Reinforced Polymer Laminates in Strengthening of Structures | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-030-51485-3_17)
+- [Applications of Fiber Reinforced Polymer Laminates in Strengthening of Structures](https://link.springer.com/chapter/10.1007/978-3-030-51485-3_17)
 
 - [Effect of Steel Fibers on the Sorptivity of Concrete | SpringerLink](https://link.springer.com/chapter/10.1007/978-981-15-4779-9_32)
 
