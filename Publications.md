@@ -10,4 +10,4 @@
 
 - [Corrosion Monitoring and Service Life Prediction of Rebars in Structural Concrete: State-of-Review | SpringerLink](https://link.springer.com/chapter/10.1007/978-81-322-1859-3_12)
 
-## [](PublicationDetails.md)
+## [Cite as](PublicationDetails.md)
