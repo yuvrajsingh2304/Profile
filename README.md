@@ -4,4 +4,4 @@
 
 ## [Publications](Publications.md)
 
-[Details](Publicationdetails.md)
+
